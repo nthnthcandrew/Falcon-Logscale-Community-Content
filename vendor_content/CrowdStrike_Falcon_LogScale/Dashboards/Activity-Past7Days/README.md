@@ -21,10 +21,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   * LogScale Self Hosted: N/A - Already Included
   * LogScale Community Edition: humio-organization-audit
 * **Parser**
+  
   N/A - Inbuilt Parser
 * **Collection Method & Dependencies**
+  
   N/A - Inbuilt Collection
-
+  
 ## Tested LogScale Version(s)
 * 1.68.0
 * 1.71.0
