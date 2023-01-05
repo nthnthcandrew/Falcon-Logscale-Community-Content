@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Installation Details
 * **Repositories**
   * LogScale SaaS: humio-audit
-  * LogScale Self Hosted: N/A
+  * LogScale Self Hosted: N/A - Already Included
   * LogScale Community Edition: humio-organization-audit
 * **Parser**
   N/A - Inbuilt Parser
