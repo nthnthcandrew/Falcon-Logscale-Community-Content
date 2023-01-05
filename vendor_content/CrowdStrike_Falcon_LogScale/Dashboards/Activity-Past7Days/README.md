@@ -1,7 +1,7 @@
-#LogScale User Activity for the Past 7Days
+# LogScale User Activity for the Past 7Days
 
-##Description
+## Description
 
-##Widgets
+## Widgets
 
-##Installation Details
+## Installation Details
