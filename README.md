@@ -21,9 +21,9 @@ Extended documentation is also available via the [wiki](https://github.com/nthnt
 ## Quick Start
 
 
-### Standards
+## Standards
 
-### Issues and Questions
+## Issues and Questions
 
 Is something going wrong?
 
