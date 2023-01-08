@@ -3,7 +3,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40CrowdStrike&style=social&url=https%3A%2F%2Ftwitter.com%2FCrowdStrike)](https://twitter.com/CrowdStrike)
 
 # LogScale Community Content support
-LogScale Community content is a community-driven open source project designed to assist LogScale users with integrating Crowdstrike LogScale and 3rd party logging sources/formats. None of the included content is a formal CrowdStrike product offering and no direct support from CrowdStrike support services is available beyond that detailed in your LogScale support agreement.
+LogScale Community content is a community-driven open source project designed to assist LogScale users with integrating Crowdstrike LogScale and 3rd party logging sources. None of the included content is a formal CrowdStrike product offering and no direct support from CrowdStrike support services is available beyond that detailed in your LogScale support agreement.
 
 As such none of the content included carries no formal support, expressed or implied.
 
