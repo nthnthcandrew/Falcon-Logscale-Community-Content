@@ -36,8 +36,6 @@ Extended documentation is also available via the [wiki](https://github.com/nthnt
 ## Contributing
 Interested in earning a place on our [contributors list](https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/blob/main/AUTHORS.md#contributors)?
 
-Join an elite community of security-focused Python coders and help **stop breaches**.
-
 We want your contributions!
 
 ### Start [here](https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/blob/main/CONTRIBUTING.md).
