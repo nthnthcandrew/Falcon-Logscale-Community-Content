@@ -1,10 +1,10 @@
-## Imperva Web Application Firewall
+## Imperva Web Application Firewall (WAF)
 Web application attacks prevent important transactions and steal sensitive data. 
-Imperva Web Application Firewall (WAF) stops these attacks with near-zero false positives and a global SOC to ensure your organization is protected from the latest attacks minutes after they are discovered in the wild.
+Imperva WAF stops these attacks with near-zero false positives and a global SOC to ensure your organization is protected from the latest attacks minutes after they are discovered in the wild.
 
-This package contains a parser, three dashboards and two csv files. 
+This package contains a parser, three dashboards and two lookup csv files. 
 
-Within the dashboard there are multiple searches/queries that can be used to visualise data ingested from Imperva's Cloud Web Application Firewall.
+Within the dashboards there are multiple searches/queries that can be used to visualise data ingested from Imperva's Cloud Web Application Firewall.
 
 Imperva creates the following comprehensive and detailed logs:
 - Security logs
