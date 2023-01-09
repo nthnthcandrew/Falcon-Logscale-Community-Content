@@ -13,7 +13,7 @@ Extended documentation is also available via the [wiki](https://github.com/nthnt
 + [Overview](#overview-)
 + [Quick Start](#quick-start-)
 + [Documentation and Support](#documentation-and-support-)
-+ [Contribute to FalconPy](#contribute-to-falconpy-)
++ [Contribute to Logscale Community Content](#contribute-to-Falcon-LogScale)
 
 ## Overview
 
@@ -37,10 +37,11 @@ Please submit usage questions to the Q&A section of our discussion board.
 
 [![Discussions](https://raw.githubusercontent.com/CrowdStrike/falconpy/main/docs/asset/ask-a-question.png)](https://github.com/CrowdStrike/Falcon-Logscale-Community-Content/discussions?discussions_q=category%3AQ%26A)
 
+<!--  Discussion are currently disabled for this repo
 ### Community forums
 
 The discussion board for this repository also provides the community with means to communicate regarding [enhancements ideas](https://github.com/CrowdStrike/Falcon-Logscale-Community-Content/discussions?discussions_q=category%3AIdeas), [integration examples](https://github.com/CrowdStrike/Falcon-Logscale-Community-Content/discussions/496) and [new releases](https://github.com/CrowdStrike/Falcon-Logscale-Community-Content/discussions?discussions_q=category%3A%22Show+and+tell%22).
-
+-->
 ### Additional content
 
 More information regarding Falcon LogScale Community Content documentation and support can be found [here](https://github.com/CrowdStrike/Falcon-Logscale-Community-Content/blob/main/SUPPORT.md).
@@ -55,7 +56,7 @@ _Providing feedback_ by opening a GitHub ticket. Even a fly-by "hey, this worked
 
 _Documenting, blogging, or creating videos_, of how you've used FalconPy! This type of content is *invaluable* and helps our community grow. Open a pull request for inclusion in the [Additional content](https://github.com/CrowdStrike/Falcon-Logscale-Community-Content#additional-content) section of this page.
 
-_Fix a bug or implement a new feature_. Check out our [open issues on GitHub](https://github.com/CrowdStrike/falconpy/issues) or our [discussion board](https://github.com/CrowdStrike/Falcon-Logscale-Community-Content/discussions) for inspiration.
+_Fix a bug or implement a new feature_. Check out our [open issues on GitHub](https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/issues)for inspiration.
 
 _Review pull requests_ by going through the queue of [open pull requests on GitHub](https://github.com/CrowdStrike/Falcon-Logscale-Community-Content/pulls) and giving feedback to the authors.
 
