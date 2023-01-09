@@ -19,7 +19,17 @@ Extended documentation is also available via the [wiki](https://github.com/nthnt
 
 
 ## Quick Start
-
+- git clone https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content.git
+- Select an existing branch (git checkout [existing branch]) OR create a new branch (git branch [future-plans])
+- Make changes
+- git add [Changed files and directories]
+- git branch
+- git commit 
+- git status
+- git checkout main
+- git merge [branch]
+- git branch -d [branch]
+- git push origin main
 
 ## Standards
 
