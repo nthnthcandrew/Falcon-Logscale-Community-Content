@@ -63,8 +63,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-xxxxxxx@crowdstrike.com or https://crowdstrike.ethicspoint.com/.
+reported to the community leaders responsible for enforcement at https://crowdstrike.ethicspoint.com/.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
