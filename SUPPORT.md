@@ -7,17 +7,21 @@ LogScale Community content is a community-driven open source project designed to
 
 As such none of the content included carries no formal support, expressed or implied.
 
+<!-- disabled for now
+If/when this repo is moved to Crowdstrike account and Discussions are enabled we can have a similar discussion forum
+
 - [Issue Reporting and Questions](#issue-reporting-and-questions-bug)
 - [Community Forums](#community-forums)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
-
+-->
 ## Issue Reporting and Questions :bug:
 
 Issues may be reported [here](https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/issues/new/choose) and are used to track bugs, documentation and link updates, enhancement requests and security concerns. 
 
 [![Report Issue](https://raw.githubusercontent.com/nthnthcandrew/Falcon-Logscale-Community-Content/main/docs/asset/report-issue.png)](https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/issues/new/choose)
 
+<!-- discussions currently disabled
 Find out if anyone else in the community is experiencing the same issue on our [discussion board](#community-forums). 
 Your questions are welcome, please submit them to the [Q&A section](https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/discussions?discussions_q=category%3AQ%26A).
 
@@ -29,7 +33,7 @@ Issue reports that do not result in a bug finding, documentation or link update,
 
 ## Community Forums
 The discussion board for this repository also provides the community with means to communicate regarding [enhancements ideas](https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/discussions?discussions_q=category%3AIdeas), [integration examples](https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/discussions/496) and [new releases](https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/discussions?discussions_q=category%3A%22Show+and+tell%22).
-
+-->
 ## Documentation
 Extended documentation is also available via the [wiki](https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/wiki) for this repository.
 
