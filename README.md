@@ -26,10 +26,11 @@ Extended documentation is also available via the [wiki](https://github.com/nthnt
 - git branch
 - git commit 
 - git status
-- git checkout main
 - git merge [branch]
-- git branch -d [branch]
 - git push origin main
+- Create Pull Request - https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/pulls 
+- Wait for Approval
+- git branch -d [branch]
 
 ## Standards
 
