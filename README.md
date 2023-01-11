@@ -20,17 +20,19 @@ Extended documentation is also available via the [wiki](https://github.com/nthnt
 
 ## Quick Start
 - git clone https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content.git
-- Select an existing branch (git checkout [existing branch]) OR create a new branch (git branch [future-plans])
-- Make changes
-- git add [Changed files and directories]
-- git branch
-- git commit 
-- git status
+- Select an existing branch (git checkout [existing branch]) OR create a new branch (git branch [new branch])
+  Note: Always git pull before branching or making changes to ensure you have the latest version
+  - git branch (Ensure new branch exists)
+  - git branch [new branch] (Change to new branch)
+- Make changes 
+- git add [Changed files and directories] (Add files to staging)
+- git commit (Commit staged changes to the local repository)
+- git status (Check that all changes are included in your commit)
 - git merge
-- git push --set-upstream origin [branch]
-- Create Pull Request - https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/pulls 
+- git push --set-upstream origin [branch] (Push changes to the branch on the remote Repository)
+- Create Pull Request - https://github.com/nthnthcandrew/Falcon-Logscale-Community-Content/pulls (Request Approval to merge into Main)
 - Wait for Approval
-- git branch -d [branch]
+- git branch -d [branch] (Delete your branch)
 
 ## Standards
 
