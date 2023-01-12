@@ -1,4 +1,4 @@
-## Imperva Web Application Firewall
+## Imperva Cloud Web Application Firewall
 Web application attacks prevent important transactions and steal sensitive data. 
 Imperva Web Application Firewall (WAF) stops these attacks with near-zero false positives and a global SOC to ensure your organization is protected from the latest attacks minutes after they are discovered in the wild.
 
@@ -33,7 +33,7 @@ v0.2.0
 
 ## Package Contents
 ## Parsers
-- cef
+- Imperva_ApplicationSecurity_CloudWebApplicationFirewall_cef
 
 ## Dashboards
 - Account Overview
