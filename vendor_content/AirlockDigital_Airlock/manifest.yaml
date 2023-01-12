@@ -1,0 +1,10 @@
+author:
+  name: airlockdigital
+name: airlockdigital/airlock
+description: airlockdigital/airlock
+logoUrl: https://www.airlockdigital.com/wp-content/uploads/2014/09/Airlock-Logo-Artwork1.png
+version: 0.0.1
+minHumioVersion: 1.20.0
+type: application
+$schema: https://schemas.humio.com/manifest/v2.0.0
+licenseUrl: https://www.apache.org/licenses/LICENSE-2.0
