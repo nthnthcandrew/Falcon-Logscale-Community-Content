@@ -1,4 +1,4 @@
-name: airlock
+name: AirlockDigital
 tests:
 - '{"event":"ServerActivityMessage", "datetime":"28/06/2022 02:04:36 PM", "task":"Login",
   "user":"admin", "description":"User: admin logged in successfully from 61.245.151.244
