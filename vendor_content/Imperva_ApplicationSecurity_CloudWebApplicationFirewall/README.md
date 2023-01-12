@@ -33,7 +33,7 @@ v0.2.0
 
 ## Package Contents
 ## Parsers
-- cef
+- Imperva_ApplicationSecurity_CloudWebApplicationFirewall_cef
 
 ## Dashboards
 - Account Overview
